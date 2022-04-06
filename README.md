@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Jorisvanderkamp
-- 👀 I’m interested in ...Frontend Development
-- 🌱 I’m currently learning ... JavaScript
-
+- 👀 I’m interested in ...Front-end Development
+- 🌱 I’m currently learning ... JavaScript and Angular
